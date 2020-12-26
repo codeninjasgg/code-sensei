@@ -2,8 +2,6 @@
 
 > A bookmarklet to enhance the grading of code ninja assignments.
 
-Code based on: https://gist.github.com/EthanThatOneKid/95e8393c0afc1a35efda6f514d4ee6ea
-
 ## Usage
 
 1. Visit the [grading console][grading_console] while logged in as a code sensei.
