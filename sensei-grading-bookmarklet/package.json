@@ -1,0 +1,25 @@
+{
+  "name": "sensei-grading-bookmarklet",
+  "description": "A bookmarklet to enhance the grading of code ninja assignments.",
+  "version": "0.1.0",
+  "author": "Ethan Davidson <ethan.r.davidson@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/ethanthatonekid/code-sensei/issues"
+  },
+  "dependencies": {
+    "bookmarklet": "^1.0.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  },
+  "homepage": "https://github.com/ethanthatonekid/code-sensei#readme",
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ethanthatonekid/code-sensei.git"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  }
+}
