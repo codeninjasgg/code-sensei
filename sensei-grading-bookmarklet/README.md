@@ -20,7 +20,7 @@ To generate the bookmarklet, run `npm start`.
 
 ## Purpose
 
-Grading code ninjas' submissions are slow and tedious because the current site has a very poor grading experience.
+Grading code ninjas' submissions is slow and tedious because the current site has a poor user experience.
 My goal is to make an entirely keyboard-navigable enhancement in the form of a bookmarklet.
 
 ## Security
