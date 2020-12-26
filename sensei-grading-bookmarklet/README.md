@@ -1,6 +1,6 @@
 # `sensei-grading-bookmarklet`
 
-> A bookmarklet to enhance the grading of code ninja assignments.
+> A bookmarklet to enhance the grading experience of code ninja assignments.
 
 ## Usage
 
@@ -20,7 +20,7 @@ To generate the bookmarklet, run `npm start`.
 
 ## Purpose
 
-Grading code ninjas' submissions are slow and tedious because the current site has very poor UX.
+Grading code ninjas' submissions are slow and tedious because the current site has a very poor grading experience.
 My goal is to make an entirely keyboard-navigable enhancement in the form of a bookmarklet.
 
 ## Security
