@@ -15,7 +15,7 @@ To run in development mode, run `npm run dev`.
 ## Purpose
 
 Grading code ninjas' submissions are slow and tedious because the current site has very poor UX.
-My goal is to make an entirely keyboard-navagatble enhancement in the form of a bookmarklet.
+My goal is to make an entirely keyboard-navigable enhancement in the form of a bookmarklet.
 
 [grading_console]: https://gdp.code.ninja/Grading
 [bookmarklet_definition]: https://en.wikipedia.org/wiki/Bookmarklet
