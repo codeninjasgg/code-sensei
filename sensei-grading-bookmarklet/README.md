@@ -12,9 +12,9 @@
 
 ## Development
 
+This [bookmarklet][bookmarklet_definition] is compiled using [NodeJS][node_installation].
 Upon cloning this project, execute `npm i` to install of the necessary dependencies.
 
-This [bookmarklet][bookmarklet_definition] is compiled using [NodeJS][node_installation].
 To run in development mode, run `npm run dev`.
 To generate the bookmarklet, run `npm start`.
 
@@ -25,9 +25,9 @@ My goal is to make an entirely keyboard-navigable enhancement in the form of a b
 
 ## Security
 
-For security reasons, modern browsers will make you type the prefix (`javascript:`) manually.
+For security reasons, modern browsers will make you type out the prefix (`javascript:`) manually.
 They use this as a method of opting into the potentially dangerous act of executing foreign JavaScript on a webpage.
-This code, however, is non-malicious, so no worries.
+This code, however, is non-malicious, so no worries in this case.
 
 [grading_console]: https://gdp.code.ninja/Grading
 [bookmarklet_definition]: https://en.wikipedia.org/wiki/Bookmarklet
