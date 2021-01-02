@@ -45,4 +45,4 @@ This code, however, is non-malicious, so no worries in this case.
 [bookmarklet_definition]: https://en.wikipedia.org/wiki/Bookmarklet
 [node_installation]: https://nodejs.org/en/download/
 [bookmarklet_size_badge]: https://img.shields.io/github/size/EthanThatOneKid/code-sensei/sensei-grading-bookmarklet/bookmarklet.txt?label=bookmarklet%20size
-[bookmarklet_file]: bookmarklet.txt
+[bookmarklet_file]: https://raw.githubusercontent.com/EthanThatOneKid/code-sensei/main/sensei-grading-bookmarklet/bookmarklet.txt
