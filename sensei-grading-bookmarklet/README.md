@@ -44,5 +44,5 @@ This code, however, is non-malicious, so no worries in this case.
 [grading_console]: https://gdp.code.ninja/Grading
 [bookmarklet_definition]: https://en.wikipedia.org/wiki/Bookmarklet
 [node_installation]: https://nodejs.org/en/download/
-[bookmarklet_size_badge]: https://img.badgesize.io/EthanThatOneKid/code-sensei/main/sensei-grading-bookmarklet/bookmarklet.txt
+[bookmarklet_size_badge]: https://img.shields.io/github/size/EthanThatOneKid/code-sensei/sensei-grading-bookmarklet/bookmarklet.txt?label=bookmarklet%20size
 [bookmarklet_file]: bookmarklet.txt
