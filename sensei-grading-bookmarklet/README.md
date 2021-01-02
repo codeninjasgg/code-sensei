@@ -22,6 +22,7 @@ My goal is to make an entirely keyboard-navigable enhancement in the form of a b
 | Key              | Action                         |
 | ---------------- | ------------------------------ |
 | <kbd>i</kbd>     | Marks assignment as incomplete |
+| <kbd>s</kbd>     | Skips to next assignment       |
 | <kbd>1</kbd>     | Rates assignment as 1-star     |
 | <kbd>2</kbd>     | Rates assignment as 2-star     |
 | <kbd>3</kbd>     | Rates assignment as 3-star     |
