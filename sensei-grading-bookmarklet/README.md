@@ -9,27 +9,18 @@
 Grading code ninjas' submissions is slow and tedious because the current site has a poor user experience.
 My goal is to make an entirely keyboard-navigable enhancement in the form of a bookmarklet.
 
-## Usage
-
-### One-Time
-
-1. Visit the [grading console][grading_console] while logged in as a code sensei.
-1. Paste the bookmarklet code in the [address bar](https://en.wikipedia.org/wiki/Address_bar).
-1. [Make sure it is prefixed with `javascript:`](#security).
-1. Click <kbd>enter</kbd> to execute the bookmarklet code.
-1. Grade.
-
-### Install
+## Getting Started
 
 To install a bookmarklet, it must be added to your bookmarks bar.
-
-#### Chrome Installation
 
 1. Right-click your bookmark bar.
 1. Click "Add page...".
 1. Set the name to `Sensei Grading +`.
 1. Set the URL to [the latest bookmarket distribution][bookmarklet_file].
 1. Click "Save".
+
+Now that you have installed the bookmarklet, using it is as simple as the following steps:
+
 1. Visit the [grading console][grading_console] while logged in as a code sensei.
 1. Click "Sensei Grading +" on your bookmarks bar to execute the bookmarklet code.
 1. Grade.
