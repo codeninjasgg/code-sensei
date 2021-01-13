@@ -44,6 +44,16 @@ Upon cloning this project, execute `npm i` to install of the necessary dependenc
 To run in development mode, run `npm run dev`.
 To generate the bookmarklet, run `npm start`.
 
+## Updating
+
+It is possible that some improvements to the bookmarklet have been made since you last installed it.
+To update your bookmarklet, just follow the following steps:
+
+1. Right-click "Sensei Grading +" on your bookmarks bar.
+1. Click "Edit...".
+1. Set the URL to [the latest bookmarket distribution][bookmarklet_file].
+1. Click "Save".
+
 ## Security
 
 For security reasons, modern browsers will make you type out the prefix (`javascript:`) manually.
