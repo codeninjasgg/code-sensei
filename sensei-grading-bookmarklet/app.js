@@ -38,8 +38,12 @@ const actions = {
     document.querySelector(selectors.incompleteBtn).click();
     const textarea = document.querySelector(selectors.notesTextarea);
     textarea.focus();
+    isTypingFeedback = true;
     const updateTextarea = setIdleTimeout(
-      () => document.querySelector(selectors.submit).focus(),
+      () => {
+        document.querySelector(selectors.submit).focus();
+        isTypingFeedback = false;
+      },
       defaultIdleTimeout
     );
     textarea.addEventListener("keypress", updateTextarea);
@@ -84,6 +88,9 @@ const actions = {
 };
 
 document.addEventListener("keypress", (event) => {
+  if (isTypingFeedback) {
+    return;
+  }
   try {
     switch (event.key) {
       case "i":
@@ -121,5 +128,7 @@ document.addEventListener("keypress", (event) => {
 const main = () => {
   actions.nextAssignment();
 };
+
+let isTypingFeedback = false;
 
 main();
