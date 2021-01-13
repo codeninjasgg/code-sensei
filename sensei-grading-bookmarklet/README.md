@@ -40,7 +40,7 @@ To generate the bookmarklet, run `npm start`.
 
 For security reasons, modern browsers will make you type out the prefix (`javascript:`) manually.
 They use this as a method of opting into the potentially dangerous act of executing foreign JavaScript on a webpage.
-This code, however, is non-malicious, so no worries in this case.
+This code, however, is non-malicious, so no worries.
 
 [grading_console]: https://gdp.code.ninja/Grading
 [bookmarklet_definition]: https://en.wikipedia.org/wiki/Bookmarklet
