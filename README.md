@@ -12,5 +12,6 @@
 ## Code Gallery 💽
 
 1. [`sensei-grading-bookmarklet`](sensei-grading-bookmarklet)
+1. [`ninja-logs`](ninja-logs)
 
 [codeninjas_home]: https://www.codeninjas.com/
