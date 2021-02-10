@@ -13,5 +13,6 @@
 
 1. [`sensei-grading-bookmarklet`](sensei-grading-bookmarklet)
 1. [`ninja-logs`](ninja-logs)
+1. [`sensei-guide-pro`](sensei-guide-pro)
 
 [codeninjas_home]: https://www.codeninjas.com/
