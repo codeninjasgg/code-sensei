@@ -3,5 +3,5 @@
 ## Usage
 
 ```sh
-deno install https://github.com/EthanThatOneKid/code-sensei/main/blob/ninja-logs/mod.ts
+deno run --unstable --allow-read cli.ts
 ```
